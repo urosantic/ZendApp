@@ -24,6 +24,10 @@ if (php_sapi_name() === 'cli-server') {
     unset($path);
 }
 
+/**
+ * Adding some more comments cause I can
+ */
+
 // Composer autoloading
 include __DIR__ . '/../vendor/autoload.php';
 
