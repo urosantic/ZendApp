@@ -20,12 +20,17 @@
         <entry file="file://$PROJECT_DIR$/public/index.php">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="119">
               <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
 =======
             <state relative-caret-position="272">
               <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
 >>>>>>> 233e971767687bfd5fc5d31368928213be5b541b
+=======
+            <state relative-caret-position="119">
+              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+>>>>>>> 6da03912ee2d2c5907f56b614d33279aba678ee4
               <folding />
             </state>
           </provider>
@@ -241,10 +246,14 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="2657000" />
 =======
     <option name="totallyTimeSpent" value="1236000" />
 >>>>>>> 233e971767687bfd5fc5d31368928213be5b541b
+=======
+    <option name="totallyTimeSpent" value="2657000" />
+>>>>>>> 6da03912ee2d2c5907f56b614d33279aba678ee4
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -316,6 +325,7 @@
         <state relative-caret-position="119">
           <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
           <folding />
         </state>
@@ -326,6 +336,8 @@
         <state relative-caret-position="391">
           <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
 >>>>>>> 233e971767687bfd5fc5d31368928213be5b541b
+=======
+>>>>>>> 6da03912ee2d2c5907f56b614d33279aba678ee4
           <folding />
         </state>
       </provider>
